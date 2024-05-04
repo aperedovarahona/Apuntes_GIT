@@ -7,3 +7,4 @@ En esta clase se dio las nociones basicas para comenzar con github, como crear u
 
 Por otro lado, tambien se nos pidio comenzar con la actividad por grupos, siendo esta integrada por 3 o 4 integrantes donde se debera hacer un pequeno proyecto que no tendra mucha importancia, sin embargo es crucial realizar los diferente 'commits' con respecto al trabajo en equipo, colaboracion, aportes y en caso de que exista algun conflicto, este tambien debera ser documentado en un repoositorio el cual tenga un archivo "README.me"
 #prueba
+#prueba2
